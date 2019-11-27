@@ -1,0 +1,70 @@
+.u-section-1 .u-sheet-1 {min-height: 730px}
+.u-section-1 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0}
+.u-section-1 .u-image-1 {min-height: 600px; pointer-events: auto; background-image: url("images/73264637_774952526268750_8803383200911982592_n.jpg"); background-position: 50% 50%}
+.u-section-1 .u-container-layout-1 {padding: 30px 60px}
+.u-section-1 .u-layout-cell-2 {min-height: 600px; pointer-events: auto}
+.u-section-1 .u-container-layout-2 {padding: 30px 60px}
+.u-section-1 .u-text-1 {margin: 0}
+.u-section-1 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 100px}
+.u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-image-1 {min-height: 495px}
+.u-section-1 .u-layout-cell-2 {min-height: 495px} }
+
+@media (max-width: 991px){ .u-section-1 .u-image-1 {min-height: 379px}
+.u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {min-height: 948px}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-1 .u-image-1 {min-height: 597px} }.u-section-2 .u-sheet-1 {min-height: 730px}
+.u-section-2 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0}
+.u-section-2 .u-image-1 {min-height: 600px; pointer-events: auto; background-image: url("images/74847197_2160502670924659_6210007661832830976_n.jpg"); background-position: 50% 50%}
+.u-section-2 .u-container-layout-1 {padding: 30px 60px}
+.u-section-2 .u-layout-cell-2 {min-height: 600px; pointer-events: auto}
+.u-section-2 .u-container-layout-2 {padding: 30px 60px}
+.u-section-2 .u-text-1 {margin: 0}
+.u-section-2 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 100px}
+.u-section-2 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-2 .u-image-1 {min-height: 495px}
+.u-section-2 .u-layout-cell-2 {min-height: 495px} }
+
+@media (max-width: 991px){ .u-section-2 .u-image-1 {min-height: 379px}
+.u-section-2 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-2 .u-layout-cell-2 {min-height: 100px}
+.u-section-2 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-2 .u-image-1 {min-height: 948px}
+.u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-2 .u-image-1 {min-height: 597px} }.u-section-3 .u-sheet-1 {min-height: 730px}
+.u-section-3 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0}
+.u-section-3 .u-image-1 {min-height: 600px; pointer-events: auto; background-image: url("images/75521617_412667183008838_7460141945843613696_n.jpg"); background-position: 50% 50%}
+.u-section-3 .u-container-layout-1 {padding: 30px 60px}
+.u-section-3 .u-layout-cell-2 {min-height: 600px; pointer-events: auto}
+.u-section-3 .u-container-layout-2 {padding: 30px 60px}
+.u-section-3 .u-text-1 {margin: 0}
+.u-section-3 .u-text-2 {margin: 20px 0 0} 
+
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 100px}
+.u-section-3 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-3 .u-image-1 {min-height: 495px}
+.u-section-3 .u-layout-cell-2 {min-height: 495px} }
+
+@media (max-width: 991px){ .u-section-3 .u-image-1 {min-height: 379px}
+.u-section-3 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-3 .u-layout-cell-2 {min-height: 100px}
+.u-section-3 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+
+@media (max-width: 767px){ .u-section-3 .u-image-1 {min-height: 948px}
+.u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
+@media (max-width: 575px){ .u-section-3 .u-image-1 {min-height: 597px} }
