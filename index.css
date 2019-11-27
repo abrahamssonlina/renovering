@@ -54,9 +54,9 @@
 .u-section-2 .u-text-2 {width: 540px}
 .u-section-2 .u-text-3 {width: 540px} }
 
-@media (max-width: 575px){ .u-section-2 .u-text-1 {width: 340px; font-size: 1.125rem}
-.u-section-2 .u-text-2 {font-size: 1.875rem; width: 340px}
-.u-section-2 .u-text-3 {width: 340px; font-size: 0.875rem} }.u-section-3 {margin-top: 0; margin-bottom: 0}
+@media (max-width: 575px){ .u-section-2 .u-text-1 {width: auto; font-size: 1.125rem; margin-top: 88px; margin-right: 50px; margin-left: -50px}
+.u-section-2 .u-text-2 {font-size: 1.875rem; width: auto; margin-top: 24px; margin-right: 33px; margin-left: -50px}
+.u-section-2 .u-text-3 {font-size: 0.875rem; width: auto; margin-top: 17px; margin-right: 69px; margin-left: -31px} }.u-section-3 {margin-top: 0; margin-bottom: 0}
 .u-section-3 .u-sheet-1 {min-height: 100vh}
 .u-section-3 .u-group-1 {width: 817px; min-height: 164px; margin: 38px auto 0}
 .u-section-3 .u-container-layout-1 {padding-left: 0; padding-right: 0}
